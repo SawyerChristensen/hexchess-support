@@ -13,8 +13,8 @@ If you're experiencing issues, want to report a bug, or just have questions, rea
 **Q:** I found a bug — what should I do?  
 **A:** Please email us with a description and (if possible) a screenshot!
 
-**Q** How do I access achievements?
-**A** Simply login under the profile meny to track and view achievements.
+**Q:** How do I access achievements? 
+**A:** Simply login under the profile meny to track and view achievements.
 
 **Q:** Can I play Hex Chess with friends?  
 **A:** Yes! Hex Chess supports online multiplayer.
